@@ -1,0 +1,8856 @@
+我	r	O
+想	v	O
+聽	v	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+A	nr	B_P
+-	nr	M_P
+L	nr	M_P
+i	nr	M_P
+n	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+M	nr	B_P
+P	nr	M_P
+魔	nr	M_P
+幻	nr	M_P
+力	nr	M_P
+量	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+S	nr	B_P
+.	nr	M_P
+H	nr	M_P
+.	nr	M_P
+E	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+丁	nr	B_P
+噹	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+丁	nr	B_P
+噹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+丁	nr	B_P
+噹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+丁	nr	B_P
+噹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+丁	nr	B_P
+噹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+丁	nr	B_P
+噹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+丁	nr	B_P
+噹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+丁	nr	B_P
+噹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+丁	nr	B_P
+噹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+丁	nr	B_P
+噹	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+丁	nr	B_P
+噹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+丁	nr	B_P
+噹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+丁	nr	B_P
+噹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+丁	nr	B_P
+噹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+丁	nr	B_P
+噹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+丁	nr	B_P
+噹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+丁	nr	B_P
+噹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+丁	nr	B_P
+噹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+五	nr	B_P
+月	nr	M_P
+天	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+五	nr	B_P
+月	nr	M_P
+天	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+五	nr	B_P
+月	nr	M_P
+天	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+五	nr	B_P
+月	nr	M_P
+天	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+五	nr	B_P
+月	nr	M_P
+天	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+五	nr	B_P
+月	nr	M_P
+天	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+五	nr	B_P
+月	nr	M_P
+天	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+五	nr	B_P
+月	nr	M_P
+天	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+五	nr	B_P
+月	nr	M_P
+天	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+五	nr	B_P
+月	nr	M_P
+天	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+五	nr	B_P
+月	nr	M_P
+天	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+五	nr	B_P
+月	nr	M_P
+天	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+五	nr	B_P
+月	nr	M_P
+天	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+五	nr	B_P
+月	nr	M_P
+天	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+五	nr	B_P
+月	nr	M_P
+天	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+五	nr	B_P
+月	nr	M_P
+天	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+五	nr	B_P
+月	nr	M_P
+天	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+五	nr	B_P
+月	nr	M_P
+天	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+五	nr	B_P
+月	nr	M_P
+天	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+五	nr	B_P
+月	nr	M_P
+天	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+五	nr	B_P
+月	nr	M_P
+天	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+五	nr	B_P
+月	nr	M_P
+天	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+五	nr	B_P
+月	nr	M_P
+天	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+五	nr	B_P
+月	nr	M_P
+天	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+五	nr	B_P
+月	nr	M_P
+天	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+五	nr	B_P
+月	nr	M_P
+天	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+五	nr	B_P
+月	nr	M_P
+天	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+兄	nr	B_P
+弟	nr	M_P
+本	nr	M_P
+色	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+動	nr	B_P
+力	nr	M_P
+火	nr	M_P
+車	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+南	nr	B_P
+拳	nr	M_P
+媽	nr	M_P
+媽	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+周	nr	B_P
+杰	nr	M_P
+倫	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+周	nr	B_P
+杰	nr	M_P
+倫	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+周	nr	B_P
+杰	nr	M_P
+倫	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+周	nr	B_P
+杰	nr	M_P
+倫	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+周	nr	B_P
+杰	nr	M_P
+倫	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+周	nr	B_P
+杰	nr	M_P
+倫	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+周	nr	B_P
+杰	nr	M_P
+倫	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+周	nr	B_P
+杰	nr	M_P
+倫	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+周	nr	B_P
+杰	nr	M_P
+倫	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+周	nr	B_P
+杰	nr	M_P
+倫	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+周	nr	B_P
+杰	nr	M_P
+倫	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+周	nr	B_P
+杰	nr	M_P
+倫	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+周	nr	B_P
+杰	nr	M_P
+倫	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+周	nr	B_P
+杰	nr	M_P
+倫	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+周	nr	B_P
+杰	nr	M_P
+倫	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+周	nr	B_P
+杰	nr	M_P
+倫	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+周	nr	B_P
+杰	nr	M_P
+倫	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+周	nr	B_P
+杰	nr	M_P
+倫	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+周	nr	B_P
+杰	nr	M_P
+倫	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+周	nr	B_P
+杰	nr	M_P
+倫	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+周	nr	B_P
+杰	nr	M_P
+倫	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+周	nr	B_P
+杰	nr	M_P
+倫	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+周	nr	B_P
+杰	nr	M_P
+倫	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+周	nr	B_P
+杰	nr	M_P
+倫	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+周	nr	B_P
+杰	nr	M_P
+倫	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+周	nr	B_P
+杰	nr	M_P
+倫	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+周	nr	B_P
+杰	nr	M_P
+倫	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+孫	nr	B_P
+燕	nr	M_P
+姿	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+孫	nr	B_P
+燕	nr	M_P
+姿	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+孫	nr	B_P
+燕	nr	M_P
+姿	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+孫	nr	B_P
+燕	nr	M_P
+姿	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+孫	nr	B_P
+燕	nr	M_P
+姿	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+孫	nr	B_P
+燕	nr	M_P
+姿	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+孫	nr	B_P
+燕	nr	M_P
+姿	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+孫	nr	B_P
+燕	nr	M_P
+姿	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+孫	nr	B_P
+燕	nr	M_P
+姿	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+孫	nr	B_P
+燕	nr	M_P
+姿	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+孫	nr	B_P
+燕	nr	M_P
+姿	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+孫	nr	B_P
+燕	nr	M_P
+姿	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+孫	nr	B_P
+燕	nr	M_P
+姿	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+孫	nr	B_P
+燕	nr	M_P
+姿	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+孫	nr	B_P
+燕	nr	M_P
+姿	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+孫	nr	B_P
+燕	nr	M_P
+姿	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+孫	nr	B_P
+燕	nr	M_P
+姿	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+孫	nr	B_P
+燕	nr	M_P
+姿	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+孫	nr	B_P
+燕	nr	M_P
+姿	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+孫	nr	B_P
+燕	nr	M_P
+姿	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+孫	nr	B_P
+燕	nr	M_P
+姿	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+孫	nr	B_P
+燕	nr	M_P
+姿	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+孫	nr	B_P
+燕	nr	M_P
+姿	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+孫	nr	B_P
+燕	nr	M_P
+姿	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+孫	nr	B_P
+燕	nr	M_P
+姿	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+孫	nr	B_P
+燕	nr	M_P
+姿	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+孫	nr	B_P
+燕	nr	M_P
+姿	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+張	nr	B_P
+學	nr	M_P
+友	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+張	nr	B_P
+學	nr	M_P
+友	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+張	nr	B_P
+學	nr	M_P
+友	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+張	nr	B_P
+學	nr	M_P
+友	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+張	nr	B_P
+學	nr	M_P
+友	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+張	nr	B_P
+學	nr	M_P
+友	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+張	nr	B_P
+學	nr	M_P
+友	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+張	nr	B_P
+學	nr	M_P
+友	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+張	nr	B_P
+學	nr	M_P
+友	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+張	nr	B_P
+學	nr	M_P
+友	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+張	nr	B_P
+學	nr	M_P
+友	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+張	nr	B_P
+學	nr	M_P
+友	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+張	nr	B_P
+學	nr	M_P
+友	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+張	nr	B_P
+學	nr	M_P
+友	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+張	nr	B_P
+學	nr	M_P
+友	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+張	nr	B_P
+學	nr	M_P
+友	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+張	nr	B_P
+學	nr	M_P
+友	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+張	nr	B_P
+學	nr	M_P
+友	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+張	nr	B_P
+學	nr	M_P
+友	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+張	nr	B_P
+學	nr	M_P
+友	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+張	nr	B_P
+學	nr	M_P
+友	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+張	nr	B_P
+學	nr	M_P
+友	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+張	nr	B_P
+學	nr	M_P
+友	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+張	nr	B_P
+學	nr	M_P
+友	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+張	nr	B_P
+學	nr	M_P
+友	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+張	nr	B_P
+學	nr	M_P
+友	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+張	nr	B_P
+學	nr	M_P
+友	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+張	nr	B_P
+惠	nr	M_P
+妹	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+張	nr	B_P
+惠	nr	M_P
+妹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+張	nr	B_P
+惠	nr	M_P
+妹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+張	nr	B_P
+惠	nr	M_P
+妹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+張	nr	B_P
+惠	nr	M_P
+妹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+張	nr	B_P
+惠	nr	M_P
+妹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+張	nr	B_P
+惠	nr	M_P
+妹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+張	nr	B_P
+惠	nr	M_P
+妹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+張	nr	B_P
+惠	nr	M_P
+妹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+張	nr	B_P
+惠	nr	M_P
+妹	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+張	nr	B_P
+惠	nr	M_P
+妹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+張	nr	B_P
+惠	nr	M_P
+妹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+張	nr	B_P
+惠	nr	M_P
+妹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+張	nr	B_P
+惠	nr	M_P
+妹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+張	nr	B_P
+惠	nr	M_P
+妹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+張	nr	B_P
+惠	nr	M_P
+妹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+張	nr	B_P
+惠	nr	M_P
+妹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+張	nr	B_P
+惠	nr	M_P
+妹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+張	nr	B_P
+惠	nr	M_P
+妹	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+張	nr	B_P
+惠	nr	M_P
+妹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+張	nr	B_P
+惠	nr	M_P
+妹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+張	nr	B_P
+惠	nr	M_P
+妹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+張	nr	B_P
+惠	nr	M_P
+妹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+張	nr	B_P
+惠	nr	M_P
+妹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+張	nr	B_P
+惠	nr	M_P
+妹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+張	nr	B_P
+惠	nr	M_P
+妹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+張	nr	B_P
+惠	nr	M_P
+妹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+張	nr	B_P
+韶	nr	M_P
+涵	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+張	nr	B_P
+韶	nr	M_P
+涵	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+張	nr	B_P
+韶	nr	M_P
+涵	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+張	nr	B_P
+韶	nr	M_P
+涵	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+張	nr	B_P
+韶	nr	M_P
+涵	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+張	nr	B_P
+韶	nr	M_P
+涵	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+張	nr	B_P
+韶	nr	M_P
+涵	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+張	nr	B_P
+韶	nr	M_P
+涵	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+張	nr	B_P
+韶	nr	M_P
+涵	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+張	nr	B_P
+韶	nr	M_P
+涵	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+張	nr	B_P
+韶	nr	M_P
+涵	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+張	nr	B_P
+韶	nr	M_P
+涵	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+張	nr	B_P
+韶	nr	M_P
+涵	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+張	nr	B_P
+韶	nr	M_P
+涵	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+張	nr	B_P
+韶	nr	M_P
+涵	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+張	nr	B_P
+韶	nr	M_P
+涵	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+張	nr	B_P
+韶	nr	M_P
+涵	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+張	nr	B_P
+韶	nr	M_P
+涵	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+張	nr	B_P
+韶	nr	M_P
+涵	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+張	nr	B_P
+韶	nr	M_P
+涵	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+張	nr	B_P
+韶	nr	M_P
+涵	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+張	nr	B_P
+韶	nr	M_P
+涵	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+張	nr	B_P
+韶	nr	M_P
+涵	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+張	nr	B_P
+韶	nr	M_P
+涵	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+張	nr	B_P
+韶	nr	M_P
+涵	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+張	nr	B_P
+韶	nr	M_P
+涵	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+張	nr	B_P
+韶	nr	M_P
+涵	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+戴	nr	B_P
+蕙	nr	M_P
+心	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+戴	nr	B_P
+蕙	nr	M_P
+心	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+戴	nr	B_P
+蕙	nr	M_P
+心	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+戴	nr	B_P
+蕙	nr	M_P
+心	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+戴	nr	B_P
+蕙	nr	M_P
+心	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+戴	nr	B_P
+蕙	nr	M_P
+心	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+戴	nr	B_P
+蕙	nr	M_P
+心	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+戴	nr	B_P
+蕙	nr	M_P
+心	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+戴	nr	B_P
+蕙	nr	M_P
+心	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+戴	nr	B_P
+蕙	nr	M_P
+心	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+戴	nr	B_P
+蕙	nr	M_P
+心	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+戴	nr	B_P
+蕙	nr	M_P
+心	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+戴	nr	B_P
+蕙	nr	M_P
+心	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+戴	nr	B_P
+蕙	nr	M_P
+心	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+戴	nr	B_P
+蕙	nr	M_P
+心	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+戴	nr	B_P
+蕙	nr	M_P
+心	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+戴	nr	B_P
+蕙	nr	M_P
+心	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+戴	nr	B_P
+蕙	nr	M_P
+心	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+戴	nr	B_P
+蕙	nr	M_P
+心	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+戴	nr	B_P
+蕙	nr	M_P
+心	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+戴	nr	B_P
+蕙	nr	M_P
+心	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+戴	nr	B_P
+蕙	nr	M_P
+心	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+戴	nr	B_P
+蕙	nr	M_P
+心	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+戴	nr	B_P
+蕙	nr	M_P
+心	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+戴	nr	B_P
+蕙	nr	M_P
+心	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+戴	nr	B_P
+蕙	nr	M_P
+心	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+戴	nr	B_P
+蕙	nr	M_P
+心	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+李	nr	B_P
+榮	nr	M_P
+浩	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+李	nr	B_P
+榮	nr	M_P
+浩	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+李	nr	B_P
+榮	nr	M_P
+浩	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+李	nr	B_P
+榮	nr	M_P
+浩	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+李	nr	B_P
+榮	nr	M_P
+浩	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+李	nr	B_P
+榮	nr	M_P
+浩	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+李	nr	B_P
+榮	nr	M_P
+浩	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+李	nr	B_P
+榮	nr	M_P
+浩	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+李	nr	B_P
+榮	nr	M_P
+浩	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+李	nr	B_P
+榮	nr	M_P
+浩	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+李	nr	B_P
+榮	nr	M_P
+浩	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+李	nr	B_P
+榮	nr	M_P
+浩	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+李	nr	B_P
+榮	nr	M_P
+浩	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+李	nr	B_P
+榮	nr	M_P
+浩	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+李	nr	B_P
+榮	nr	M_P
+浩	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+李	nr	B_P
+榮	nr	M_P
+浩	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+李	nr	B_P
+榮	nr	M_P
+浩	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+李	nr	B_P
+榮	nr	M_P
+浩	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+李	nr	B_P
+榮	nr	M_P
+浩	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+李	nr	B_P
+榮	nr	M_P
+浩	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+李	nr	B_P
+榮	nr	M_P
+浩	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+李	nr	B_P
+榮	nr	M_P
+浩	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+李	nr	B_P
+榮	nr	M_P
+浩	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+李	nr	B_P
+榮	nr	M_P
+浩	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+李	nr	B_P
+榮	nr	M_P
+浩	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+李	nr	B_P
+榮	nr	M_P
+浩	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+李	nr	B_P
+榮	nr	M_P
+浩	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+林	nr	B_P
+俊	nr	M_P
+傑	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+林	nr	B_P
+俊	nr	M_P
+傑	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+林	nr	B_P
+俊	nr	M_P
+傑	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+林	nr	B_P
+俊	nr	M_P
+傑	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+林	nr	B_P
+俊	nr	M_P
+傑	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+林	nr	B_P
+俊	nr	M_P
+傑	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+林	nr	B_P
+俊	nr	M_P
+傑	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+林	nr	B_P
+俊	nr	M_P
+傑	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+林	nr	B_P
+俊	nr	M_P
+傑	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+林	nr	B_P
+俊	nr	M_P
+傑	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+林	nr	B_P
+俊	nr	M_P
+傑	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+林	nr	B_P
+俊	nr	M_P
+傑	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+林	nr	B_P
+俊	nr	M_P
+傑	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+林	nr	B_P
+俊	nr	M_P
+傑	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+林	nr	B_P
+俊	nr	M_P
+傑	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+林	nr	B_P
+俊	nr	M_P
+傑	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+林	nr	B_P
+俊	nr	M_P
+傑	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+林	nr	B_P
+俊	nr	M_P
+傑	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+林	nr	B_P
+俊	nr	M_P
+傑	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+林	nr	B_P
+俊	nr	M_P
+傑	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+林	nr	B_P
+俊	nr	M_P
+傑	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+林	nr	B_P
+俊	nr	M_P
+傑	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+林	nr	B_P
+俊	nr	M_P
+傑	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+林	nr	B_P
+俊	nr	M_P
+傑	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+林	nr	B_P
+俊	nr	M_P
+傑	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+林	nr	B_P
+俊	nr	M_P
+傑	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+林	nr	B_P
+俊	nr	M_P
+傑	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+林	nr	B_P
+宥	nr	M_P
+嘉	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+林	nr	B_P
+宥	nr	M_P
+嘉	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+林	nr	B_P
+宥	nr	M_P
+嘉	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+林	nr	B_P
+宥	nr	M_P
+嘉	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+林	nr	B_P
+宥	nr	M_P
+嘉	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+林	nr	B_P
+宥	nr	M_P
+嘉	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+林	nr	B_P
+宥	nr	M_P
+嘉	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+林	nr	B_P
+宥	nr	M_P
+嘉	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+林	nr	B_P
+宥	nr	M_P
+嘉	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+林	nr	B_P
+宥	nr	M_P
+嘉	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+林	nr	B_P
+宥	nr	M_P
+嘉	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+林	nr	B_P
+宥	nr	M_P
+嘉	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+林	nr	B_P
+宥	nr	M_P
+嘉	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+林	nr	B_P
+宥	nr	M_P
+嘉	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+林	nr	B_P
+宥	nr	M_P
+嘉	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+林	nr	B_P
+宥	nr	M_P
+嘉	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+林	nr	B_P
+宥	nr	M_P
+嘉	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+林	nr	B_P
+宥	nr	M_P
+嘉	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+林	nr	B_P
+宥	nr	M_P
+嘉	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+林	nr	B_P
+宥	nr	M_P
+嘉	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+林	nr	B_P
+宥	nr	M_P
+嘉	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+林	nr	B_P
+宥	nr	M_P
+嘉	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+林	nr	B_P
+宥	nr	M_P
+嘉	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+林	nr	B_P
+宥	nr	M_P
+嘉	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+林	nr	B_P
+宥	nr	M_P
+嘉	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+林	nr	B_P
+宥	nr	M_P
+嘉	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+林	nr	B_P
+宥	nr	M_P
+嘉	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+梁	nr	B_P
+靜	nr	M_P
+茹	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+梁	nr	B_P
+靜	nr	M_P
+茹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+梁	nr	B_P
+靜	nr	M_P
+茹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+梁	nr	B_P
+靜	nr	M_P
+茹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+梁	nr	B_P
+靜	nr	M_P
+茹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+梁	nr	B_P
+靜	nr	M_P
+茹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+梁	nr	B_P
+靜	nr	M_P
+茹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+梁	nr	B_P
+靜	nr	M_P
+茹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+梁	nr	B_P
+靜	nr	M_P
+茹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+梁	nr	B_P
+靜	nr	M_P
+茹	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+梁	nr	B_P
+靜	nr	M_P
+茹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+梁	nr	B_P
+靜	nr	M_P
+茹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+梁	nr	B_P
+靜	nr	M_P
+茹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+梁	nr	B_P
+靜	nr	M_P
+茹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+梁	nr	B_P
+靜	nr	M_P
+茹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+梁	nr	B_P
+靜	nr	M_P
+茹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+梁	nr	B_P
+靜	nr	M_P
+茹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+梁	nr	B_P
+靜	nr	M_P
+茹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+梁	nr	B_P
+靜	nr	M_P
+茹	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+梁	nr	B_P
+靜	nr	M_P
+茹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+梁	nr	B_P
+靜	nr	M_P
+茹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+梁	nr	B_P
+靜	nr	M_P
+茹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+梁	nr	B_P
+靜	nr	M_P
+茹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+梁	nr	B_P
+靜	nr	M_P
+茹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+梁	nr	B_P
+靜	nr	M_P
+茹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+梁	nr	B_P
+靜	nr	M_P
+茹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+梁	nr	B_P
+靜	nr	M_P
+茹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+楊	nr	B_P
+丞	nr	M_P
+琳	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+楊	nr	B_P
+丞	nr	M_P
+琳	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+楊	nr	B_P
+丞	nr	M_P
+琳	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+楊	nr	B_P
+丞	nr	M_P
+琳	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+楊	nr	B_P
+丞	nr	M_P
+琳	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+楊	nr	B_P
+丞	nr	M_P
+琳	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+楊	nr	B_P
+丞	nr	M_P
+琳	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+楊	nr	B_P
+丞	nr	M_P
+琳	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+楊	nr	B_P
+丞	nr	M_P
+琳	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+楊	nr	B_P
+丞	nr	M_P
+琳	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+楊	nr	B_P
+丞	nr	M_P
+琳	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+楊	nr	B_P
+丞	nr	M_P
+琳	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+楊	nr	B_P
+丞	nr	M_P
+琳	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+楊	nr	B_P
+丞	nr	M_P
+琳	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+楊	nr	B_P
+丞	nr	M_P
+琳	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+楊	nr	B_P
+丞	nr	M_P
+琳	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+楊	nr	B_P
+丞	nr	M_P
+琳	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+楊	nr	B_P
+丞	nr	M_P
+琳	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+楊	nr	B_P
+丞	nr	M_P
+琳	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+楊	nr	B_P
+丞	nr	M_P
+琳	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+楊	nr	B_P
+丞	nr	M_P
+琳	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+楊	nr	B_P
+丞	nr	M_P
+琳	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+楊	nr	B_P
+丞	nr	M_P
+琳	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+楊	nr	B_P
+丞	nr	M_P
+琳	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+楊	nr	B_P
+丞	nr	M_P
+琳	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+楊	nr	B_P
+丞	nr	M_P
+琳	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+楊	nr	B_P
+丞	nr	M_P
+琳	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+毛	nr	B_P
+不	nr	M_P
+易	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+毛	nr	B_P
+不	nr	M_P
+易	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+毛	nr	B_P
+不	nr	M_P
+易	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+毛	nr	B_P
+不	nr	M_P
+易	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+毛	nr	B_P
+不	nr	M_P
+易	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+毛	nr	B_P
+不	nr	M_P
+易	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+毛	nr	B_P
+不	nr	M_P
+易	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+毛	nr	B_P
+不	nr	M_P
+易	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+毛	nr	B_P
+不	nr	M_P
+易	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+毛	nr	B_P
+不	nr	M_P
+易	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+毛	nr	B_P
+不	nr	M_P
+易	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+毛	nr	B_P
+不	nr	M_P
+易	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+毛	nr	B_P
+不	nr	M_P
+易	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+毛	nr	B_P
+不	nr	M_P
+易	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+毛	nr	B_P
+不	nr	M_P
+易	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+毛	nr	B_P
+不	nr	M_P
+易	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+毛	nr	B_P
+不	nr	M_P
+易	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+毛	nr	B_P
+不	nr	M_P
+易	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+毛	nr	B_P
+不	nr	M_P
+易	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+毛	nr	B_P
+不	nr	M_P
+易	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+毛	nr	B_P
+不	nr	M_P
+易	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+毛	nr	B_P
+不	nr	M_P
+易	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+毛	nr	B_P
+不	nr	M_P
+易	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+毛	nr	B_P
+不	nr	M_P
+易	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+毛	nr	B_P
+不	nr	M_P
+易	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+毛	nr	B_P
+不	nr	M_P
+易	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+毛	nr	B_P
+不	nr	M_P
+易	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+滅	nr	B_P
+火	nr	M_P
+器	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+滅	nr	B_P
+火	nr	M_P
+器	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+滅	nr	B_P
+火	nr	M_P
+器	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+滅	nr	B_P
+火	nr	M_P
+器	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+滅	nr	B_P
+火	nr	M_P
+器	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+滅	nr	B_P
+火	nr	M_P
+器	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+滅	nr	B_P
+火	nr	M_P
+器	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+滅	nr	B_P
+火	nr	M_P
+器	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+滅	nr	B_P
+火	nr	M_P
+器	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+滅	nr	B_P
+火	nr	M_P
+器	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+滅	nr	B_P
+火	nr	M_P
+器	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+滅	nr	B_P
+火	nr	M_P
+器	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+滅	nr	B_P
+火	nr	M_P
+器	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+滅	nr	B_P
+火	nr	M_P
+器	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+滅	nr	B_P
+火	nr	M_P
+器	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+滅	nr	B_P
+火	nr	M_P
+器	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+滅	nr	B_P
+火	nr	M_P
+器	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+滅	nr	B_P
+火	nr	M_P
+器	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+滅	nr	B_P
+火	nr	M_P
+器	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+滅	nr	B_P
+火	nr	M_P
+器	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+滅	nr	B_P
+火	nr	M_P
+器	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+滅	nr	B_P
+火	nr	M_P
+器	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+滅	nr	B_P
+火	nr	M_P
+器	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+滅	nr	B_P
+火	nr	M_P
+器	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+滅	nr	B_P
+火	nr	M_P
+器	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+滅	nr	B_P
+火	nr	M_P
+器	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+滅	nr	B_P
+火	nr	M_P
+器	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+王	nr	B_P
+力	nr	M_P
+宏	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+王	nr	B_P
+力	nr	M_P
+宏	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+王	nr	B_P
+力	nr	M_P
+宏	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+王	nr	B_P
+力	nr	M_P
+宏	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+王	nr	B_P
+力	nr	M_P
+宏	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+王	nr	B_P
+力	nr	M_P
+宏	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+王	nr	B_P
+力	nr	M_P
+宏	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+王	nr	B_P
+力	nr	M_P
+宏	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+王	nr	B_P
+力	nr	M_P
+宏	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+王	nr	B_P
+力	nr	M_P
+宏	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+王	nr	B_P
+力	nr	M_P
+宏	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+王	nr	B_P
+力	nr	M_P
+宏	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+王	nr	B_P
+力	nr	M_P
+宏	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+王	nr	B_P
+力	nr	M_P
+宏	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+王	nr	B_P
+力	nr	M_P
+宏	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+王	nr	B_P
+力	nr	M_P
+宏	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+王	nr	B_P
+力	nr	M_P
+宏	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+王	nr	B_P
+力	nr	M_P
+宏	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+王	nr	B_P
+力	nr	M_P
+宏	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+王	nr	B_P
+力	nr	M_P
+宏	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+王	nr	B_P
+力	nr	M_P
+宏	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+王	nr	B_P
+力	nr	M_P
+宏	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+王	nr	B_P
+力	nr	M_P
+宏	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+王	nr	B_P
+力	nr	M_P
+宏	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+王	nr	B_P
+力	nr	M_P
+宏	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+王	nr	B_P
+力	nr	M_P
+宏	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+王	nr	B_P
+力	nr	M_P
+宏	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+玖	nr	B_P
+壹	nr	M_P
+壹	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+玖	nr	B_P
+壹	nr	M_P
+壹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+玖	nr	B_P
+壹	nr	M_P
+壹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+玖	nr	B_P
+壹	nr	M_P
+壹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+玖	nr	B_P
+壹	nr	M_P
+壹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+玖	nr	B_P
+壹	nr	M_P
+壹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+玖	nr	B_P
+壹	nr	M_P
+壹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+玖	nr	B_P
+壹	nr	M_P
+壹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+玖	nr	B_P
+壹	nr	M_P
+壹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+玖	nr	B_P
+壹	nr	M_P
+壹	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+玖	nr	B_P
+壹	nr	M_P
+壹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+玖	nr	B_P
+壹	nr	M_P
+壹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+玖	nr	B_P
+壹	nr	M_P
+壹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+玖	nr	B_P
+壹	nr	M_P
+壹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+玖	nr	B_P
+壹	nr	M_P
+壹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+玖	nr	B_P
+壹	nr	M_P
+壹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+玖	nr	B_P
+壹	nr	M_P
+壹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+玖	nr	B_P
+壹	nr	M_P
+壹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+玖	nr	B_P
+壹	nr	M_P
+壹	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+玖	nr	B_P
+壹	nr	M_P
+壹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+玖	nr	B_P
+壹	nr	M_P
+壹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+玖	nr	B_P
+壹	nr	M_P
+壹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+玖	nr	B_P
+壹	nr	M_P
+壹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+玖	nr	B_P
+壹	nr	M_P
+壹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+玖	nr	B_P
+壹	nr	M_P
+壹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+玖	nr	B_P
+壹	nr	M_P
+壹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+玖	nr	B_P
+壹	nr	M_P
+壹	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+田	nr	B_P
+馥	nr	M_P
+甄	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+田	nr	B_P
+馥	nr	M_P
+甄	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+田	nr	B_P
+馥	nr	M_P
+甄	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+田	nr	B_P
+馥	nr	M_P
+甄	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+田	nr	B_P
+馥	nr	M_P
+甄	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+田	nr	B_P
+馥	nr	M_P
+甄	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+田	nr	B_P
+馥	nr	M_P
+甄	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+田	nr	B_P
+馥	nr	M_P
+甄	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+田	nr	B_P
+馥	nr	M_P
+甄	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+田	nr	B_P
+馥	nr	M_P
+甄	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+田	nr	B_P
+馥	nr	M_P
+甄	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+田	nr	B_P
+馥	nr	M_P
+甄	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+田	nr	B_P
+馥	nr	M_P
+甄	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+田	nr	B_P
+馥	nr	M_P
+甄	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+田	nr	B_P
+馥	nr	M_P
+甄	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+田	nr	B_P
+馥	nr	M_P
+甄	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+田	nr	B_P
+馥	nr	M_P
+甄	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+田	nr	B_P
+馥	nr	M_P
+甄	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+田	nr	B_P
+馥	nr	M_P
+甄	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+田	nr	B_P
+馥	nr	M_P
+甄	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+田	nr	B_P
+馥	nr	M_P
+甄	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+田	nr	B_P
+馥	nr	M_P
+甄	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+田	nr	B_P
+馥	nr	M_P
+甄	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+田	nr	B_P
+馥	nr	M_P
+甄	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+田	nr	B_P
+馥	nr	M_P
+甄	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+田	nr	B_P
+馥	nr	M_P
+甄	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+田	nr	B_P
+馥	nr	M_P
+甄	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+艾	nr	B_P
+怡	nr	M_P
+良	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+艾	nr	B_P
+怡	nr	M_P
+良	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+艾	nr	B_P
+怡	nr	M_P
+良	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+艾	nr	B_P
+怡	nr	M_P
+良	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+艾	nr	B_P
+怡	nr	M_P
+良	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+艾	nr	B_P
+怡	nr	M_P
+良	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+艾	nr	B_P
+怡	nr	M_P
+良	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+艾	nr	B_P
+怡	nr	M_P
+良	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+艾	nr	B_P
+怡	nr	M_P
+良	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+艾	nr	B_P
+怡	nr	M_P
+良	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+艾	nr	B_P
+怡	nr	M_P
+良	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+艾	nr	B_P
+怡	nr	M_P
+良	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+艾	nr	B_P
+怡	nr	M_P
+良	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+艾	nr	B_P
+怡	nr	M_P
+良	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+艾	nr	B_P
+怡	nr	M_P
+良	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+艾	nr	B_P
+怡	nr	M_P
+良	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+艾	nr	B_P
+怡	nr	M_P
+良	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+艾	nr	B_P
+怡	nr	M_P
+良	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+艾	nr	B_P
+怡	nr	M_P
+良	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+艾	nr	B_P
+怡	nr	M_P
+良	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+艾	nr	B_P
+怡	nr	M_P
+良	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+艾	nr	B_P
+怡	nr	M_P
+良	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+艾	nr	B_P
+怡	nr	M_P
+良	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+艾	nr	B_P
+怡	nr	M_P
+良	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+艾	nr	B_P
+怡	nr	M_P
+良	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+艾	nr	B_P
+怡	nr	M_P
+良	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+艾	nr	B_P
+怡	nr	M_P
+良	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+范	nr	B_P
+瑋	nr	M_P
+琪	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+范	nr	B_P
+瑋	nr	M_P
+琪	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+范	nr	B_P
+瑋	nr	M_P
+琪	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+范	nr	B_P
+瑋	nr	M_P
+琪	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+范	nr	B_P
+瑋	nr	M_P
+琪	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+范	nr	B_P
+瑋	nr	M_P
+琪	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+范	nr	B_P
+瑋	nr	M_P
+琪	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+范	nr	B_P
+瑋	nr	M_P
+琪	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+范	nr	B_P
+瑋	nr	M_P
+琪	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+范	nr	B_P
+瑋	nr	M_P
+琪	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+范	nr	B_P
+瑋	nr	M_P
+琪	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+范	nr	B_P
+瑋	nr	M_P
+琪	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+范	nr	B_P
+瑋	nr	M_P
+琪	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+范	nr	B_P
+瑋	nr	M_P
+琪	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+范	nr	B_P
+瑋	nr	M_P
+琪	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+范	nr	B_P
+瑋	nr	M_P
+琪	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+范	nr	B_P
+瑋	nr	M_P
+琪	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+范	nr	B_P
+瑋	nr	M_P
+琪	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+范	nr	B_P
+瑋	nr	M_P
+琪	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+范	nr	B_P
+瑋	nr	M_P
+琪	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+范	nr	B_P
+瑋	nr	M_P
+琪	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+范	nr	B_P
+瑋	nr	M_P
+琪	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+范	nr	B_P
+瑋	nr	M_P
+琪	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+范	nr	B_P
+瑋	nr	M_P
+琪	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+范	nr	B_P
+瑋	nr	M_P
+琪	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+范	nr	B_P
+瑋	nr	M_P
+琪	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+范	nr	B_P
+瑋	nr	M_P
+琪	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+茄	nr	B_P
+子	nr	M_P
+蛋	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+茄	nr	B_P
+子	nr	M_P
+蛋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+茄	nr	B_P
+子	nr	M_P
+蛋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+茄	nr	B_P
+子	nr	M_P
+蛋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+茄	nr	B_P
+子	nr	M_P
+蛋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+茄	nr	B_P
+子	nr	M_P
+蛋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+茄	nr	B_P
+子	nr	M_P
+蛋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+茄	nr	B_P
+子	nr	M_P
+蛋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+茄	nr	B_P
+子	nr	M_P
+蛋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+茄	nr	B_P
+子	nr	M_P
+蛋	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+茄	nr	B_P
+子	nr	M_P
+蛋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+茄	nr	B_P
+子	nr	M_P
+蛋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+茄	nr	B_P
+子	nr	M_P
+蛋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+茄	nr	B_P
+子	nr	M_P
+蛋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+茄	nr	B_P
+子	nr	M_P
+蛋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+茄	nr	B_P
+子	nr	M_P
+蛋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+茄	nr	B_P
+子	nr	M_P
+蛋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+茄	nr	B_P
+子	nr	M_P
+蛋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+茄	nr	B_P
+子	nr	M_P
+蛋	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+茄	nr	B_P
+子	nr	M_P
+蛋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+茄	nr	B_P
+子	nr	M_P
+蛋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+茄	nr	B_P
+子	nr	M_P
+蛋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+茄	nr	B_P
+子	nr	M_P
+蛋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+茄	nr	B_P
+子	nr	M_P
+蛋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+茄	nr	B_P
+子	nr	M_P
+蛋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+茄	nr	B_P
+子	nr	M_P
+蛋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+茄	nr	B_P
+子	nr	M_P
+蛋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+莫	nr	B_P
+文	nr	M_P
+蔚	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+莫	nr	B_P
+文	nr	M_P
+蔚	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+莫	nr	B_P
+文	nr	M_P
+蔚	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+莫	nr	B_P
+文	nr	M_P
+蔚	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+莫	nr	B_P
+文	nr	M_P
+蔚	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+莫	nr	B_P
+文	nr	M_P
+蔚	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+莫	nr	B_P
+文	nr	M_P
+蔚	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+莫	nr	B_P
+文	nr	M_P
+蔚	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+莫	nr	B_P
+文	nr	M_P
+蔚	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+莫	nr	B_P
+文	nr	M_P
+蔚	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+莫	nr	B_P
+文	nr	M_P
+蔚	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+莫	nr	B_P
+文	nr	M_P
+蔚	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+莫	nr	B_P
+文	nr	M_P
+蔚	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+莫	nr	B_P
+文	nr	M_P
+蔚	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+莫	nr	B_P
+文	nr	M_P
+蔚	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+莫	nr	B_P
+文	nr	M_P
+蔚	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+莫	nr	B_P
+文	nr	M_P
+蔚	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+莫	nr	B_P
+文	nr	M_P
+蔚	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+莫	nr	B_P
+文	nr	M_P
+蔚	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+莫	nr	B_P
+文	nr	M_P
+蔚	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+莫	nr	B_P
+文	nr	M_P
+蔚	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+莫	nr	B_P
+文	nr	M_P
+蔚	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+莫	nr	B_P
+文	nr	M_P
+蔚	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+莫	nr	B_P
+文	nr	M_P
+蔚	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+莫	nr	B_P
+文	nr	M_P
+蔚	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+莫	nr	B_P
+文	nr	M_P
+蔚	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+莫	nr	B_P
+文	nr	M_P
+蔚	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+蕭	nr	B_P
+敬	nr	M_P
+騰	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+蕭	nr	B_P
+敬	nr	M_P
+騰	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+蕭	nr	B_P
+敬	nr	M_P
+騰	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+蕭	nr	B_P
+敬	nr	M_P
+騰	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+蕭	nr	B_P
+敬	nr	M_P
+騰	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+蕭	nr	B_P
+敬	nr	M_P
+騰	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+蕭	nr	B_P
+敬	nr	M_P
+騰	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+蕭	nr	B_P
+敬	nr	M_P
+騰	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+蕭	nr	B_P
+敬	nr	M_P
+騰	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+蕭	nr	B_P
+敬	nr	M_P
+騰	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+蕭	nr	B_P
+敬	nr	M_P
+騰	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+蕭	nr	B_P
+敬	nr	M_P
+騰	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+蕭	nr	B_P
+敬	nr	M_P
+騰	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+蕭	nr	B_P
+敬	nr	M_P
+騰	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+蕭	nr	B_P
+敬	nr	M_P
+騰	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+蕭	nr	B_P
+敬	nr	M_P
+騰	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+蕭	nr	B_P
+敬	nr	M_P
+騰	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+蕭	nr	B_P
+敬	nr	M_P
+騰	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+蕭	nr	B_P
+敬	nr	M_P
+騰	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+蕭	nr	B_P
+敬	nr	M_P
+騰	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+蕭	nr	B_P
+敬	nr	M_P
+騰	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+蕭	nr	B_P
+敬	nr	M_P
+騰	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+蕭	nr	B_P
+敬	nr	M_P
+騰	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+蕭	nr	B_P
+敬	nr	M_P
+騰	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+蕭	nr	B_P
+敬	nr	M_P
+騰	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+蕭	nr	B_P
+敬	nr	M_P
+騰	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+蕭	nr	B_P
+敬	nr	M_P
+騰	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+薛	nr	B_P
+之	nr	M_P
+謙	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+薛	nr	B_P
+之	nr	M_P
+謙	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+薛	nr	B_P
+之	nr	M_P
+謙	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+薛	nr	B_P
+之	nr	M_P
+謙	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+薛	nr	B_P
+之	nr	M_P
+謙	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+薛	nr	B_P
+之	nr	M_P
+謙	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+薛	nr	B_P
+之	nr	M_P
+謙	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+薛	nr	B_P
+之	nr	M_P
+謙	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+薛	nr	B_P
+之	nr	M_P
+謙	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+薛	nr	B_P
+之	nr	M_P
+謙	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+薛	nr	B_P
+之	nr	M_P
+謙	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+薛	nr	B_P
+之	nr	M_P
+謙	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+薛	nr	B_P
+之	nr	M_P
+謙	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+薛	nr	B_P
+之	nr	M_P
+謙	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+薛	nr	B_P
+之	nr	M_P
+謙	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+薛	nr	B_P
+之	nr	M_P
+謙	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+薛	nr	B_P
+之	nr	M_P
+謙	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+薛	nr	B_P
+之	nr	M_P
+謙	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+薛	nr	B_P
+之	nr	M_P
+謙	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+薛	nr	B_P
+之	nr	M_P
+謙	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+薛	nr	B_P
+之	nr	M_P
+謙	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+薛	nr	B_P
+之	nr	M_P
+謙	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+薛	nr	B_P
+之	nr	M_P
+謙	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+薛	nr	B_P
+之	nr	M_P
+謙	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+薛	nr	B_P
+之	nr	M_P
+謙	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+薛	nr	B_P
+之	nr	M_P
+謙	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+薛	nr	B_P
+之	nr	M_P
+謙	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+蘇	nr	B_P
+打	nr	M_P
+綠	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+蘇	nr	B_P
+打	nr	M_P
+綠	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+蘇	nr	B_P
+打	nr	M_P
+綠	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+蘇	nr	B_P
+打	nr	M_P
+綠	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+蘇	nr	B_P
+打	nr	M_P
+綠	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+蘇	nr	B_P
+打	nr	M_P
+綠	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+蘇	nr	B_P
+打	nr	M_P
+綠	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+蘇	nr	B_P
+打	nr	M_P
+綠	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+蘇	nr	B_P
+打	nr	M_P
+綠	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+蘇	nr	B_P
+打	nr	M_P
+綠	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+蘇	nr	B_P
+打	nr	M_P
+綠	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+蘇	nr	B_P
+打	nr	M_P
+綠	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+蘇	nr	B_P
+打	nr	M_P
+綠	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+蘇	nr	B_P
+打	nr	M_P
+綠	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+蘇	nr	B_P
+打	nr	M_P
+綠	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+蘇	nr	B_P
+打	nr	M_P
+綠	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+蘇	nr	B_P
+打	nr	M_P
+綠	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+蘇	nr	B_P
+打	nr	M_P
+綠	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+蘇	nr	B_P
+打	nr	M_P
+綠	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+蘇	nr	B_P
+打	nr	M_P
+綠	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+蘇	nr	B_P
+打	nr	M_P
+綠	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+蘇	nr	B_P
+打	nr	M_P
+綠	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+蘇	nr	B_P
+打	nr	M_P
+綠	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+蘇	nr	B_P
+打	nr	M_P
+綠	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+蘇	nr	B_P
+打	nr	M_P
+綠	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+蘇	nr	B_P
+打	nr	M_P
+綠	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+蘇	nr	B_P
+打	nr	M_P
+綠	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+鄧	nr	B_P
+紫	nr	M_P
+棋	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+鄧	nr	B_P
+紫	nr	M_P
+棋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+鄧	nr	B_P
+紫	nr	M_P
+棋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+鄧	nr	B_P
+紫	nr	M_P
+棋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+鄧	nr	B_P
+紫	nr	M_P
+棋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+鄧	nr	B_P
+紫	nr	M_P
+棋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+鄧	nr	B_P
+紫	nr	M_P
+棋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+鄧	nr	B_P
+紫	nr	M_P
+棋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+鄧	nr	B_P
+紫	nr	M_P
+棋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+鄧	nr	B_P
+紫	nr	M_P
+棋	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+鄧	nr	B_P
+紫	nr	M_P
+棋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+鄧	nr	B_P
+紫	nr	M_P
+棋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+鄧	nr	B_P
+紫	nr	M_P
+棋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+鄧	nr	B_P
+紫	nr	M_P
+棋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+鄧	nr	B_P
+紫	nr	M_P
+棋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+鄧	nr	B_P
+紫	nr	M_P
+棋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+鄧	nr	B_P
+紫	nr	M_P
+棋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+鄧	nr	B_P
+紫	nr	M_P
+棋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+鄧	nr	B_P
+紫	nr	M_P
+棋	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+鄧	nr	B_P
+紫	nr	M_P
+棋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+鄧	nr	B_P
+紫	nr	M_P
+棋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+鄧	nr	B_P
+紫	nr	M_P
+棋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+鄧	nr	B_P
+紫	nr	M_P
+棋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+鄧	nr	B_P
+紫	nr	M_P
+棋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+鄧	nr	B_P
+紫	nr	M_P
+棋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+鄧	nr	B_P
+紫	nr	M_P
+棋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+鄧	nr	B_P
+紫	nr	M_P
+棋	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+陳	nr	B_P
+奕	nr	M_P
+迅	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+陳	nr	B_P
+奕	nr	M_P
+迅	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+陳	nr	B_P
+奕	nr	M_P
+迅	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+陳	nr	B_P
+奕	nr	M_P
+迅	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+陳	nr	B_P
+奕	nr	M_P
+迅	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+陳	nr	B_P
+奕	nr	M_P
+迅	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+陳	nr	B_P
+奕	nr	M_P
+迅	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+陳	nr	B_P
+奕	nr	M_P
+迅	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+陳	nr	B_P
+奕	nr	M_P
+迅	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+陳	nr	B_P
+奕	nr	M_P
+迅	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+陳	nr	B_P
+奕	nr	M_P
+迅	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+陳	nr	B_P
+奕	nr	M_P
+迅	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+陳	nr	B_P
+奕	nr	M_P
+迅	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+陳	nr	B_P
+奕	nr	M_P
+迅	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+陳	nr	B_P
+奕	nr	M_P
+迅	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+陳	nr	B_P
+奕	nr	M_P
+迅	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+陳	nr	B_P
+奕	nr	M_P
+迅	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+陳	nr	B_P
+奕	nr	M_P
+迅	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+聽	v	O
+陳	nr	B_P
+奕	nr	M_P
+迅	nr	E_P
+的	uj	O
+歌	n	O
+
+來	zg	O
+一首	m	O
+陳	nr	B_P
+奕	nr	M_P
+迅	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+點	q	O
+陳	nr	B_P
+奕	nr	M_P
+迅	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+唱	v	O
+陳	nr	B_P
+奕	nr	M_P
+迅	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想要	v	O
+陳	nr	B_P
+奕	nr	M_P
+迅	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+想	v	O
+要點	x	O
+陳	nr	B_P
+奕	nr	M_P
+迅	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+陳	nr	B_P
+奕	nr	M_P
+迅	nr	E_P
+的	uj	O
+歌	n	O
+
+我	r	O
+要	v	O
+聽	v	O
+陳	nr	B_P
+奕	nr	M_P
+迅	nr	E_P
+的	uj	O
+歌	n	O
+
+我	v	O
+想	v	O
+點	q	O
+陳	nr	B_P
+奕	nr	M_P
+迅	nr	E_P
+的	uj	O
+歌	n	O
+
